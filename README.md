@@ -11,3 +11,9 @@ I will practice github by using visual studio code.
 ### Visual Studio Code
 
 Update README file
+
+------------------------------------------------------
+
+### Github
+
+Reupdate README file
